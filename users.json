@@ -1,0 +1,19 @@
+{
+  "users": {
+    "uid_example_1": {
+      "email": "owner@example.com",
+      "license": true,
+      "deviceId": "",
+      "role": "admin",
+      "createdAt": "2025-11-23T00:00:00Z"
+    },
+
+    "uid_example_2": {
+      "email": "user1@example.com",
+      "license": true,
+      "deviceId": "",
+      "role": "user",
+      "createdAt": "2025-11-23T00:00:00Z"
+    }
+  }
+}
